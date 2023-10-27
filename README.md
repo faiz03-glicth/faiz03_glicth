@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++,C,Javascript**
 
-- ⚡ Fun fact **Eat,Pray,Sleep,Learn,Train,Repeat**
+- ⚡ Fun fact **Frog can jump**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
